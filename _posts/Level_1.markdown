@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Can you see the hidden image?"
-categories: Level1 Images Stereogram
+categories: en Level1
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
