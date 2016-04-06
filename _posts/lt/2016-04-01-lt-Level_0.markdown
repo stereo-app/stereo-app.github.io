@@ -4,7 +4,7 @@ title:  "Ar matai paslėptą paveiksliuką?"
 permalink: /lt/level0/
 ---
 
-Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti pasleptą 3d objektą.
+Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą.
 
 ![Level 0]({{ site.url }}/assets/level_0.png)
 
