@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Can you see the hidden image?"
-permalink: /en/level1/
+permalink: /en/level25/
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
-![Level 1]({{ site.url }}/assets/level_1.png)
+![Level 25]({{ site.url }}/assets/level_25.png)
 
 Liked it? Download the app @ [App Store][app_store] 
 

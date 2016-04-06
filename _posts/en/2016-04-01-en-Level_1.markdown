@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Can you see the hidden image?"
-permalink: /en/Level1/
+permalink: /en/level1/
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
