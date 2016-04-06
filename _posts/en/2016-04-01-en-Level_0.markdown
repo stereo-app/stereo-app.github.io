@@ -7,6 +7,6 @@ Focus to the back of the image and try to see the hidden 3d object.
 
 ![Level 0]({{ site.url }}/assets/level_0.png)
 
-Liked it? Download the app @ [App Store][app_store] 
+Enjoy this? Download the app @ [App Store][app_store] 
 
 [app_store]: http://appstore.com
