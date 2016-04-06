@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stereo-app.github.io" # the base hostname & protocol for your site
 twitter_username: stereo-app
 github_username:  stereo-app
+permalink: none
 
 # Build settings
 markdown: kramdown
