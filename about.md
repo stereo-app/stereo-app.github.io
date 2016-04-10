@@ -17,13 +17,13 @@ Remember to be patient, blink as little as possible and be focused behind the st
 
 * B. Black dots
 
-![Black dots]({{ site.url }}/assets/black_dots.png)
+[Black dots]({{ site.url }}/assets/black_dots.png)
 
 1. Look at the 2 black dots, Relax your eyes until you see 4 dots. Try to bring 2 middle dots together so you see 3 dots. Use the same principle for stereograms.
 
 * C. Look Through
 
-![Look Through]({{ site.url }}/assets/look_through.png)
+[Look Through]({{ site.url }}/assets/look_through.png)
 
 1. Find an object in front of you - a painting on the wall, a lamp on the table.
 2. Keep looking at the object while slowly bringing the stereogram from low to high until it blocks the object. Your eyes have to be focused behind on the chosen object.
