@@ -17,5 +17,5 @@ Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą
 include2
 ar tu veiki?1
 
-{{ %include text.markdown}}
+{{ %include text.html}}
 {{ %include /lt/text.markdown}}
