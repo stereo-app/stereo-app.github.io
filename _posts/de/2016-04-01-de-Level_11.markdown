@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Can you see the hidden image?"
-permalink: /en/level11/
+title:  "Können Sie das verborgene Bild finden?"
+permalink: /de/level11/
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 

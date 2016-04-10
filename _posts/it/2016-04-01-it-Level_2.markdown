@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Riesci a trovare l'immagine nascosta?"
+permalink: /it/level2/
+---
+Focus to the back of the image and try to see the hidden 3d object.
+
+![Level 2]({{ site.url }}/assets/level_2.png)

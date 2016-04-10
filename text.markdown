@@ -1,1 +1,0 @@
-tesktas tekstukas in root

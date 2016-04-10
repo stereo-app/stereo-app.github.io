@@ -6,16 +6,3 @@ permalink: /lt/level0/
 Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą.
 
 ![Level 0]({{ site.url }}/assets/level_0.png)
-
-{{md  /text.md}}
-{{md  /text.markdown}}
-{{md  ../text.md}}
-{{md  ../text.markdown}}
-{{md  /lt/text.markdown}}
-
-
-include2
-ar tu veiki?1
-
-{{ %include text.html}}
-{{ %include /lt/text.markdown}}
