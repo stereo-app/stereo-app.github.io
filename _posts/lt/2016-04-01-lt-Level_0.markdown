@@ -8,9 +8,12 @@ Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą
 ![Level 0]({{ site.url }}/assets/level_0.png)
 
 {{md  /text.md}}
+{{md  /text.markdown}}
 {{md  ../text.md}}
 {{md  ../text.markdown}}
+{{md  /lt/text.markdown}}
+
 
 include
 
-{ %include text.markdown}
+{{ %include text.markdown}}
