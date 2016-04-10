@@ -17,7 +17,7 @@ Remember to be patient, blink as little as possible and be focused behind the st
 
 * 	B. Black dots
 
-[Black dots]({{ site.url }}/assets/black_dots.png)
+	[Black dots]({{ site.url }}/assets/black_dots.png)
 
 	1. Look at the 2 black dots, Relax your eyes until you see 4 dots. Try to bring 2 middle dots together so you see 3 dots. Use the same principle for stereograms.
 
