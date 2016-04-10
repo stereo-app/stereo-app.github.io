@@ -24,9 +24,9 @@ Remember to be patient, blink as little as possible and be focused behind the st
 
 ## C. Look Through ##
 
-[Look Through]({{ site.url }}/assets/look_through.png)
+![Look Through]({{ site.url }}/assets/look_through.png)
 
-	1. Find an object in front of you - a painting on the wall, a lamp on the table.
-	2. Keep looking at the object while slowly bringing the stereogram from low to high until it blocks the object. Your eyes have to be focused behind on the chosen object.
-	3. Once you manage to keep your focus on the object and not on the stereogram, try slowly moving the stereogram towards or away from you. At some distance you will see the hidden image in the stereogram.
-	4. Once you can see blurry 3D picture, keep looking at it this way until it becomes sharp and recognisable.
+1. 	Find an object in front of you - a painting on the wall, a lamp on the table.
+2. 	Keep looking at the object while slowly bringing the stereogram from low to high until it blocks the object. Your eyes have to be focused behind on the chosen object.
+3. 	Once you manage to keep your focus on the object and not on the stereogram, try slowly moving the stereogram towards or away from you. At some distance you will see the hidden image in the stereogram.
+4. 	Once you can see blurry 3D picture, keep looking at it this way until it becomes sharp and recognisable.
