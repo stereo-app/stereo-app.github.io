@@ -6,7 +6,3 @@ permalink: /en/level31/
 Focus to the back of the image and try to see the hidden 3d object.
 
 ![Level 31]({{ site.url }}/assets/level_31.png)
-
-Liked it? Download the app @ [App Store][app_store] 
-
-[app_store]: http://appstore.com

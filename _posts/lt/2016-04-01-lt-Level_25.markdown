@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ar matai paslėptą paveiksliuką?"
+permalink: /lt/level25/
+---
+Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą.
+
+![Level 25]({{ site.url }}/assets/level_25.png)
