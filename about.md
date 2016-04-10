@@ -16,11 +16,13 @@ Remember to be patient, blink as little as possible and be focused behind the st
 5. Congratulations you saw your first Stereogram :)
 
 * B. Black dots
+
 ![Black dots]({{ site.url }}/assets/black_dots.png)
 
 1. Look at the 2 black dots, Relax your eyes until you see 4 dots. Try to bring 2 middle dots together so you see 3 dots. Use the same principle for stereograms.
 
 * C. Look Through
+
 ![Look Through]({{ site.url }}/assets/look_through.png)
 
 1. Find an object in front of you - a painting on the wall, a lamp on the table.
