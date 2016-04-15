@@ -2,7 +2,8 @@
 layout: post
 title:  "Riesci a trovare l'immagine nascosta?"
 permalink: /it/level3/
+level: 3
 ---
-Focus to the back of the image and try to see the hidden 3d object.
+Mettere a fuoco gli occhi dietro la foto e cercare di vedere l'oggetto 3D nascosti.
 
-![Level 3]({{ site.url }}/assets/level_3.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)

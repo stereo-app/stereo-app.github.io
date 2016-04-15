@@ -6,4 +6,4 @@ level: 31
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
-![Level 31]({{ site.url }}/assets/level_{{page.level}}.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)

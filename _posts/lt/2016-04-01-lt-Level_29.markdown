@@ -2,7 +2,8 @@
 layout: post
 title:  "Ar matai paslėptą paveiksliuką?"
 permalink: /lt/level29/
+level: 29
 ---
 Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą.
 
-![Level 29]({{ site.url }}/assets/level_29.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)

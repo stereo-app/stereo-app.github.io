@@ -2,7 +2,8 @@
 layout: post
 title:  "Können Sie das verborgene Bild finden?"
 permalink: /de/level6/
+level: 6
 ---
-Focus to the back of the image and try to see the hidden 3d object.
+Hinter dem bild und versuchen das versteckte 3d objekt zu sehen.
 
-![Level 6]({{ site.url }}/assets/level_6.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)

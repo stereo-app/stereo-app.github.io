@@ -2,7 +2,8 @@
 layout: post
 title:  "Видите ли скрытое изображение?"
 permalink: /ru/level0/
+level: 0
 ---
-Сосредоточьте свои глаза на позади изображения и увидеть скрытый объект 3d.
+Сосредоточьте свои глаза на позади изображения и увидеть скрытый объект 3D.
 
-![Level 0]({{ site.url }}/assets/level_0.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)

@@ -2,7 +2,8 @@
 layout: post
 title:  "Can you see the hidden image?"
 permalink: /en/level35/
+level: 35
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
-![Level 35]({{ site.url }}/assets/level_35.png)
+![Level {{page.level}}]({{ site.url }}/assets/level_{{page.level}}.png)
