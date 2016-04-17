@@ -3,6 +3,7 @@ layout: post
 title:  "Pouvez-vous trouver l'image cachée?"
 permalink: /fr/level0/
 level: 0
+language: fr
 ---
 Concentrez vos yeux derrière l'image et essayer de voir l'objet 3D caché.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Riesci a trovare l'immagine nascosta?"
 permalink: /it/level32/
 level: 32
+language: it
 ---
 Mettere a fuoco gli occhi dietro la foto e cercare di vedere l'oggetto 3D nascosti.
 
