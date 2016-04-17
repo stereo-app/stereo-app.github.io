@@ -3,6 +3,7 @@ layout: post
 title:  "Can you see the hidden image?"
 permalink: /en/level4/
 level: 4
+language: en
 ---
 Focus to the back of the image and try to see the hidden 3d object.
 
