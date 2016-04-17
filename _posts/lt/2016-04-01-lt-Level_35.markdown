@@ -3,6 +3,7 @@ layout: post
 title:  "Ar matai paslėptą paveiksliuką?"
 permalink: /lt/level35/
 level: 35
+language: lt
 ---
 Sufokusuok žvilgsnį už paveiksliuko ir bandyk pamatyti paslėptą 3d objektą.
 
